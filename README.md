@@ -34,10 +34,3 @@ python sigma_generator.py
 
 Follow the prompts to input necessary details and generate the rule.
 
-Contribution
-
-Feel free to contribute by submitting issues or pull requests.
-
-License
-
-MIT License
